@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map platform
+#######################################
+
+#######################################
+# Datatypes (KEYWORD3)
+#######################################
+
+platform		KEYWORD3
+platformDisplay	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getTime			KEYWORD2
+getTemperature		KEYWORD2
+getHumidity		KEYWORD2
+getBatteryVoltage	KEYWORD2
+getLoadCurrent		KEYWORD2
+getBatteryCurrent	KEYWORD2
+getPanelCurrent		KEYWORD2
+getSpeedOfWind		KEYWORD2
+initializeSD		KEYWORD2
+writeSD				KEYWORD2
+readSD				KEYWORD2
+version				KEYWORD2
+initializeRTC			KEYWORD2
+initializeDisplay		KEYWORD2
+initializeLoRa			KEYWORD2
+display				KEYWORD2
+adjustRTC			KEYWORD2
+enableLORA			KEYWORD2
+disableLORA			KEYWORD2
+initINA0			KEYWORD2
+initINA1			KEYWORD2
+initINA2			KEYWORD2
+initIoTNode			KEYWORD2
+readHumidity		KEYWORD2
+readTemperature		KEYWORD2
+readBatteryVoltage	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
